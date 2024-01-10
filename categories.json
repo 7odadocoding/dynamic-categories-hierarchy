@@ -1,0 +1,58 @@
+[
+   {
+      "_id": "60af76f7b43894341c3e59b5",
+      "name": "Top Category 1",
+      "desc": "Description for Top Category 1",
+      "parentCategory": null,
+      "depth": 0
+   },
+   {
+      "_id": "60af76f7b43894341c3e59b6",
+      "name": "Top Category 2",
+      "desc": "Description for Top Category 2",
+      "parentCategory": null,
+      "depth": 0
+   },
+   {
+      "_id": "60af76f7b43894341c3e59b7",
+      "name": "Subcategory 1-1",
+      "desc": "Description for Subcategory 1-1",
+      "parentCategory": "60af76f7b43894341c3e59b5",
+      "depth": 1
+   },
+   {
+      "_id": "60af76f7b43894341c3e59b8",
+      "name": "Subcategory 1-2",
+      "desc": "Description for Subcategory 1-2",
+      "parentCategory": "60af76f7b43894341c3e59b5",
+      "depth": 1
+   },
+   {
+      "_id": "60af76f7b43894341c3e59b9",
+      "name": "Subcategory 2-1",
+      "desc": "Description for Subcategory 2-1",
+      "parentCategory": "60af76f7b43894341c3e59b6",
+      "depth": 1
+   },
+   {
+      "_id": "60af76f7b43894341c3e59ba",
+      "name": "Subcategory 2-2",
+      "desc": "Description for Subcategory 2-2",
+      "parentCategory": "60af76f7b43894341c3e59b6",
+      "depth": 1
+   },
+   {
+      "_id": "60af76f7b43894341c3e59be",
+      "name": "SubSubcategory 2-2-1",
+      "desc": "Description for SubSubcategory 2-2-1",
+      "parentCategory": "60af76f7b43894341c3e59ba",
+      "depth": 2
+   },
+   {
+      "_id": "60af76f7b43894341c3e59bc",
+      "name": "SubSubSubcategory 2-2-1-1",
+      "desc": "Description for SubSubSubcategory 2-2-1-1",
+      "parentCategory": "60af76f7b43894341c3e59be",
+      "depth": 3
+   }
+]
